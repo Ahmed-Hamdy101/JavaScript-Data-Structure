@@ -23,5 +23,5 @@
  >You should have a browser that execute the code Like Google or Mozilla
 ## Resources :smile:
  - [Awesome Material](https://github.com/Ahmed-Hamdy101/Awesome-Material) :stars:
- -[ Learn Python](https://www.learnpython.org/)
+ - [ Learn Python](https://www.learnpython.org/)
  - [Massachusetts Institute of Technology](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
